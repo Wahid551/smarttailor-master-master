@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "819772740738",
+    "project_id": "smart-tailor-2cdcf",
+    "storage_bucket": "smart-tailor-2cdcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819772740738:android:a5fd9b23d8cbbfad96109b",
+        "android_client_info": {
+          "package_name": "com.example.smarttailor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819772740738-1137vij18p0l14jlvc4uqp8h0a8irnh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarttailor",
+            "certificate_hash": "f5fa66063b115da009c222d9ffb919d4b2dd11d2"
+          }
+        },
+        {
+          "client_id": "819772740738-qr702id5d2tffu0ad7uabomg1d0q6ma8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQRhcfboNtjIWbW7Rrqo9iA2JKVnfLdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819772740738-qr702id5d2tffu0ad7uabomg1d0q6ma8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
